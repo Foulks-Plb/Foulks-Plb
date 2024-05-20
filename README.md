@@ -24,6 +24,7 @@ I possess extensive experience in back-end development, including:
 
 Feel free to connect with me and explore my projects. I am always open to collaborating on exciting blockchain and web development projects!
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/your-profile)
+[LinkedIn](https://www.linkedin.com/in/foulques-pellabeuf-503837137/)
 [Medium](https://medium.com/@pellabeuf)
 [Twitter](https://x.com/FoulkPlb)
+[website](https://foulques-cv.vercel.app/)
