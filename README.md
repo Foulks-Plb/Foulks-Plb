@@ -2,7 +2,7 @@
 
 ## 👀 About Me
 I am passionate about blockchain, DeFi, and web3. 
-With 4-5 years of software development experience, I have gained extensive expertise in finance and blockchain domains. I thrive on exploring the depths of blockchain technology and am always eager to learn and implement the latest advancements in the field.
+With 5 years of software development experience, I have gained extensive expertise in finance and blockchain domains. I thrive on exploring the depths of blockchain technology and am always eager to learn and implement the latest advancements in the field.
 
 ## ⛓ Deep Blockchain Knowledge
 My expertise spans across multiple blockchain technologies and tools:
