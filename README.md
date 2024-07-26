@@ -7,7 +7,7 @@ With 5 years of software development experience, I have gained extensive experti
 ## ⛓ Deep Blockchain Knowledge
 My expertise spans across multiple blockchain technologies and tools:
 - **Languages**: Solidity, Rust, Circom, Noir-lang
-- **Libraries and Frameworks**: Ether.js, Web3.js, Wagmi
+- **Libraries and Frameworks**: Viem, Ether.js, Web3.js, Wagmi
 - **Development Tools**: Hardhat, Forge, Anchor
 
 ## 🖥️ Solid Front-end Knowledge
