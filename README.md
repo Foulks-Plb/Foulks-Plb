@@ -1,14 +1,14 @@
 # 👋 Hi, I’m @Foulks-Plb
 
 ## 👀 About Me
-I am passionate about blockchain, DeFi, and web3. 
-With 5 years of software development experience, I have gained extensive expertise in finance and blockchain domains. I thrive on exploring the depths of blockchain technology and am always eager to learn and implement the latest advancements in the field.
+With 5 years of software development experience, I have built deep expertise in blockchain, DeFi, and web3.
+I thrive on exploring the depths of blockchain technology and am always eager to learn and implement the latest advancements in the field.
 
 ## ⛓ Deep Blockchain Knowledge
 My expertise spans across multiple blockchain technologies and tools:
 - **Languages**: Solidity, Rust, Circom, Noir-lang
 - **Libraries and Frameworks**: Viem, Ether.js, Web3.js, Wagmi
-- **Development Tools**: Hardhat, Forge, Anchor
+- **Development Tools**: Forge, Hardhat, Anchor
 
 ## 🖥️ Solid Front-end Knowledge
 I have a strong background in front-end development, with proficiency in:
@@ -18,7 +18,7 @@ I have a strong background in front-end development, with proficiency in:
 
 ## 🌐 Back-end Knowledge
 I possess extensive experience in back-end development, including:
-- **Frameworks**: NestJs, express.js
+- **Frameworks**: NestJs, express.js, The Graph, GraphQL
 - **Databases and ORM**: PostgreSQL, PGadmin, Sequelize, Redis, MongoDB, Firebase, SQL, MySQL
 - **Cloud and Hosting**: AWS
 
